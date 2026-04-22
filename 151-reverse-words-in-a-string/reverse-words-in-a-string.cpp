@@ -6,7 +6,7 @@ public:
         string word;
 
         while (ss >> word) {
-            words.push_back(word);
+            words.push_back(word);   
         }
 
         string result = "";
